@@ -1,0 +1,6 @@
+# Node is only used here for live-server
+node_modules/
+package-lock.json
+
+# Ignore Zone.Identifier files created by WSL (?)
+*Zone.Identifier
